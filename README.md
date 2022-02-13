@@ -7,7 +7,7 @@
 CodeiT Youtube - https://www.youtube.com/channel/UCDRIX4T1Kh5lMSLcs5Zc7Mg .
 
 ![Rono's GitHub stats](https://github-readme-stats.vercel.app/api?username=rono516&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516)](https://github.com/rono516/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&langs_count=8)](https://github.com/rono516/github-readme-stats)
 
 
 
