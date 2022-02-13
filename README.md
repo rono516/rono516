@@ -5,3 +5,5 @@
 📫 Reach me on Facebook on https://www.facebook.com/collins.sharks.3/
 📫 Reach me twitter on https://twitter.com/Collins42Rono
 CodeiT Youtube - https://www.youtube.com/channel/UCDRIX4T1Kh5lMSLcs5Zc7Mg .
+
+[![Ronos's GitHub stats](https://github-readme-stats.vercel.app/api?username=rono516)](https://github.com/rono516/github-readme-stats)
