@@ -16,17 +16,11 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👯 I’m looking to collaborate on **python projects**
-
 - 👨‍💻 All of my projects are available at [https://www.ronocollins.mystrikingly.com](https://www.ronocollins.mystrikingly.com)
 
 - 📝 I regularly write articles on [https://dev.to/collins42rono](https://dev.to/collins42rono)
 
-- 💬 Ask me about **Python, Laravel**
-
 - 📫 How to reach me **ronocollins2000@gmail.com**
-
-- 📄 Know about my experiences [http://linkedin.com/in/collins-rono-6458831b3/](http://linkedin.com/in/collins-rono-6458831b3/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
