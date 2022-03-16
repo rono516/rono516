@@ -16,11 +16,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.ronocollins.mystrikingly.com](https://www.ronocollins.mystrikingly.com)
-
 - 📝 I regularly write articles on [https://dev.to/collins42rono](https://dev.to/collins42rono)
-
-- 📫 How to reach me **ronocollins2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
