@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Website for Coding Events](https://github.com/rono516/CodingEventsApi_WithLaravel)
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Science**
 
 - 📝 I regularly write articles on [https://dev.to/collins42rono](https://dev.to/collins42rono)
 
