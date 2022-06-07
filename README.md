@@ -11,7 +11,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rono516&show_icons=true&locale=en&layout=compact" alt="rono516" /></p>
 
 
-- 🔭 I’m currently working on [Final Year Project](https://github.com/rono516/flutter_shop)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **Flutter for my final year Project**
 
