@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rono516" alt="rono516" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/collins42rono" target="blank"><img src="https://img.shields.io/twitter/follow/collins42rono?logo=twitter&style=for-the-badge" alt="collins42rono" /></a> </p>
+<p align="left"> <a href="https://twitter.com/collins_rono_" target="blank"><img src="https://img.shields.io/twitter/follow/collins_rono_?logo=twitter&style=for-the-badge" alt="collins_rono_" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rono516&show_icons=true&locale=en&layout=compact" alt="rono516" /></p>
 
