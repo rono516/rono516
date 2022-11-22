@@ -11,7 +11,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rono516&show_icons=true&locale=en&layout=compact" alt="rono516" /></p>
 
 
-- 🌱 I’m currently learning **Flutter for my final year Project**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [https://dev.to/collins42rono](https://dev.to/collins42rono)
 
