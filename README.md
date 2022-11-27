@@ -8,9 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/collins_rono_" target="blank"><img src="https://img.shields.io/twitter/follow/collins_rono_?logo=twitter&style=for-the-badge" alt="collins_rono_" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rono516&show_icons=true&locale=en&layout=compact" alt="rono516" /></p>
-
-
 - 📝 I regularly write articles on **Dev.to** on [https://dev.to/collins42rono](https://dev.to/collins42rono)
 
 <h3 align="left">Connect with me:</h3>
