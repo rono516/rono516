@@ -2,7 +2,6 @@
 <p align="left"> <a href="https://twitter.com/collins_rono_" target="blank"><img src="https://img.shields.io/twitter/follow/collins_rono_?logo=twitter&style=for-the-badge" alt="collins_rono_" /></a> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
