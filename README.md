@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rono516&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-I regularly write articles on **Dev.to** on [https://dev.to/collins42rono](https://dev.to/collins42rono)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
