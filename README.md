@@ -11,7 +11,6 @@
 <p align="left">
 
 <a href="https://twitter.com/collins_rono_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="collins_rono_" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/shivamyadav37](https://www.linkedin.com/in/collins-rono-6458831b3/)"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
 <a href="https://www.facebook.com/collins.sharks.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rono collins" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/rono_collins_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/rono_collins_" height="30" width="40" /></a>
 </p>
