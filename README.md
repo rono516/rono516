@@ -9,8 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/collins_rono_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="collins_rono_" height="30" width="40" /></a>
 <a href="https://www.facebook.com/collins.sharks.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rono collins" height="30" width="40" /></a>
