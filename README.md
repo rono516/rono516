@@ -6,7 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&layout=compact&theme=vision-friendly-dark)](https://github.com/rono516/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&layout=compact&theme=vision-friendly-dark)](https://github.com/rono516/github-readme-stats) -->
 
 <h3 align="left">Connect with me:</h3>
 
