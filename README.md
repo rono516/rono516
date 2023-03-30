@@ -6,7 +6,9 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-https://github-readme-streak-stats.herokuapp.com/?user=rono516
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=rono516 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rono516&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rono516&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
