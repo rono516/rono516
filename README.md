@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/collins_rono_" target="blank"><img src="https://img.shields.io/twitter/follow/collins_rono_?logo=twitter&style=for-the-badge" alt="collins_rono_" /></a> </p>
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&theme=default&langs_count=8&layout=donut)](https://github.com/rono516/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&theme=default&langs_count=8&layout=compact)](https://github.com/rono516/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&layout=compact&theme=vision-friendly-dark)](https://github.com/rono516/github-readme-stats) -->
 
