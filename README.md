@@ -8,6 +8,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rono516&layout=compact&theme=vision-friendly-dark)](https://github.com/rono516/github-readme-stats) -->
 
+[![wakatime](https://wakatime.com/badge/user/f73edfc5-43ac-4f54-aa05-b808acfb30ba.svg)](https://wakatime.com/@f73edfc5-43ac-4f54-aa05-b808acfb30ba)
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/collins_rono_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="collins_rono_" height="30" width="40" /></a>
