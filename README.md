@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Collins Kiplangat Rono</h1>
-<h2 align="center">Software developer</h2>
+<h1 align="center">Hello 👋, Collins Rono here</h1>
+<h2 align="center">I'm a Software developer</h2>
 
 <p align="center"> <a href="https://twitter.com/collins_rono_" target="blank"><img src="https://img.shields.io/twitter/follow/collins_rono_?logo=twitter&style=for-the-badge" alt="collins_rono_" /></a> </p>
 
